@@ -1,15 +1,13 @@
-//01.12.24 Workspace File 
+//01.13.24 Workspace File 
 
 package ChapterII;
+
+import java.util.Scanner;
 
 public class Workspace
 {
     public static void main(String[] args)
     {
-        int i, j, k;
-
-        i = j = k = 2;
-
-        System.out.println(i + " " + j + " " + k);
+        int n1;
     }
 }
