@@ -1,13 +1,15 @@
-//01.13.24 Workspace File 
+//01.15.24 Workspace File 
 
 package ChapterII;
-
-import java.util.Scanner;
 
 public class Workspace
 {
     public static void main(String[] args)
     {
-        int n1;
+        double n1;
+
+        n1 = 1.234E+14;
+
+        System.out.println(n1);
     }
 }
